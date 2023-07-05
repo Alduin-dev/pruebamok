@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pruebamok.io/static/css/main.073c9b0a.css",
-    "main.js": "/pruebamok.io/static/js/main.b1ab20e7.js",
-    "static/js/787.bd89cae1.chunk.js": "/pruebamok.io/static/js/787.bd89cae1.chunk.js",
-    "static/media/logo.svg": "/pruebamok.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pruebamok.io/index.html",
-    "main.073c9b0a.css.map": "/pruebamok.io/static/css/main.073c9b0a.css.map",
-    "main.b1ab20e7.js.map": "/pruebamok.io/static/js/main.b1ab20e7.js.map",
-    "787.bd89cae1.chunk.js.map": "/pruebamok.io/static/js/787.bd89cae1.chunk.js.map"
+    "main.css": "/pruebamok/static/css/main.073c9b0a.css",
+    "main.js": "/pruebamok/static/js/main.f672fa44.js",
+    "static/js/787.bd89cae1.chunk.js": "/pruebamok/static/js/787.bd89cae1.chunk.js",
+    "static/media/logo.svg": "/pruebamok/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pruebamok/index.html",
+    "main.073c9b0a.css.map": "/pruebamok/static/css/main.073c9b0a.css.map",
+    "main.f672fa44.js.map": "/pruebamok/static/js/main.f672fa44.js.map",
+    "787.bd89cae1.chunk.js.map": "/pruebamok/static/js/787.bd89cae1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b1ab20e7.js"
+    "static/js/main.f672fa44.js"
   ]
 }
